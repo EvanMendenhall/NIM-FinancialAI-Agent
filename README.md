@@ -13,7 +13,7 @@ API KEY Requirements
 
 You'll need three API_KEYs to make this work:
 1. It will require an NVIDIA key to access their NIM llama3-70b-instruct model. https://build.nvidia.com/explore/retrieval
-2. OpenAI to run the main LangChain AI Agent sequences, this consumes considerable token usage. Somewhere between 8-10,000 tokens per query due to the Agents continued adjustments and logic checks on financial formulas, then mathematical operations, and code to carry them out. (Don't run GPT4 unless you want to spend $0.10 a question)
+2. OpenAI to run the main LangChain AI Agent sequences, this consumes considerable token usage. Somewhere between 8-10,000 tokens per query due to the Agents continued adjustments and logic checks on financial formulas, then mathematical operations, and code to carry them out. https://openai.com/api/pricing/ (Don't run GPT4 unless you want to spend $0.10 a question)
 3. Alpha Vantage offers a free API to get the isolated financial statements for personal use from the SEC, which this code relies on. You can get yours here https://www.alphavantage.co/support/#api-key
 
 Setup your keys in a .env file and import them using dotenv as the requirements.txt shows
@@ -56,9 +56,10 @@ Andrew Ng and Harrison Chase's LangChain courses on https://www.deeplearning.ai
 Isa Fulford for her course on LLM Prompt Engineering
 Eddie Shu for selecting me as an alpha tester of Andrew Ng's new courses in 2023
 Gabe Abinante for exceptional dedication to tutoring me in Python and Linux over several sessions
-Elan Bechor for telling me informing me of the developments of AI all the way back in 2016 and 2017
+Elan Bechor for informing me of the developments of AI all the way back in 2016 and 2017
+Mentors like Andy Pilara who taught me value investing for the long term is a worthwhile study
 
-The AI Mindscape Academy, a closed membership club of AI enthusiasts I had constant news and developments from since Feb 2023
+The AI Mindscape Academy, a closed membership club of AI enthusiasts I heard constant news and developments from since Feb 2023
 Members: Gabe Abinante, Elan Bechor, Jacob Farneth, Zach Scott, David Wilson, and Evan Mendenhall.
 
 Aidan Allchin, who mirrored my interest in AI, and along with his father, had endless profound insights into the discipline. 
