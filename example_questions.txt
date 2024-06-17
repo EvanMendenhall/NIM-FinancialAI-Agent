@@ -1,0 +1,8 @@
+What is the year-over-year change in cash position from 2018 to 2023, and what is the percentage change in cash position for each year, calculated as ((Current Year Cash - Previous Year Cash) / Previous Year Cash) * 100? Explain the answer year by year, pointing out any outliers or interesting trends.
+What is the company's gross profit margin for 2023? How does this compare to its average over the last 5 years and what does this say about management's skill?
+What is the company's effective tax rate for the most recent fiscal year?
+
+What is the company's current ratio and quick ratio? Does it seem like the company might have liquidity issues?
+What is the company's total cash flow in 2023? How is it different than the operating cash flow?
+Has the gross margin been increasing or decreasing over the last 5 years? What does this say about management and the competition?
+What are the current liabilities of the company in 2023? Does their cash on hand, or current assets cover this or do you expect they will take on more debt soon?
